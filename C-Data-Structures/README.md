@@ -10,7 +10,7 @@ This repository has most of the basic operations on data structures using C Prog
 - Stacks
 - Queues
 - Trees
-- Graphs (coming soon)
+- Trees
 
 
 
